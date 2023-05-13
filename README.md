@@ -1,2 +1,3 @@
-# TO-DO-List
-A single page to-do list app created using Reactjs.
+# To-Do list App
+
+A single page to-do list app created with the help of Reactjs.
